@@ -2,12 +2,9 @@
 
 ## Thanks for considering to Contribute to this Project!🥳
 
-<br>
-
-
 ## **Raising Issues:** ✋
 
-- *If you want to ask anything about C or this project, please feel free to open an issue [here](URL-HERE).*
+- *If you want to ask anything about this project, please feel free to open an issue [here](URL-HERE).*
 - *Any bugs that are found in the documentation or in any Program to be reported using the Bug Report Template.*
 - *Do not upload any compiled binaries with your PR.* ❌
 - *Please be polite and helpful to everyone.* 🙂
