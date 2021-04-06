@@ -1,6 +1,6 @@
 # Guidelines for Contributing and Raising Issues
 
-## Thanks for considering to Contribute to this Project!🥳
+## Thanks for considering contributing to this Project!🥳
 
 ## **Raising Issues:** ✋
 
