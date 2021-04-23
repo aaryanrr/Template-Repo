@@ -14,6 +14,7 @@
 ## **Contributing:** 📝
 
 ### *If you would like to provide a fix for a problem you can do so by opening a Pull Request [here](URL-HERE). Below are some points to consider:*
+
 <br>
 
 - *Please open a Draft PR if you want to change a lot of things.*
