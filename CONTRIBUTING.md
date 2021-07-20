@@ -21,6 +21,7 @@
 - *Provide a list of all the fixes that you have done in the PR description.*
 - *If your PR fixes an Issue, consider mentioning it with `#IssueNumber`.*
 - *Provide all the details in the PR template as applicable.*
+- *Before adding a new feature, please open an Issue for discussing it.*
 
 ---
 
